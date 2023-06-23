@@ -324,7 +324,7 @@ btn:focus {
 
 .logo-link-footer {
     margin-bottom: 17.5px;
-
+    text-decoration: none;
 }
 
 .section-footer {
